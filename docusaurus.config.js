@@ -9,12 +9,12 @@ const config = {
   title: 'PrestoDB',
   tagline: 'Distributed SQL Query Engine for Big Data',
   url: 'https://prestodb.io',
-  baseUrl: '/',
+  baseUrl: '/prestodb.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'prestodb', // Usually your GitHub org/user name.
-  projectName: 'presto', // Usually your repo name.
+  organizationName: 'mcknightd', // Usually your GitHub org/user name.
+  projectName: 'prestodb.io', // Usually your repo name.
 
   presets: [
     [
