@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/02/04/raptorx",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-02-04-raptorx.md",
+  "source": "@site/blog/2021-02-04-raptorx.md",
+  "title": "RaptorX: Building a 10X Faster Presto",
+  "description": "Facebook: Abhinav Sharma, Amit Dutta, Baldeep Hira, Biswapesh Chattopadhyay, James Sun, Jialiang Tan, Ke Wang, Lin Liu, Naveen Cherukuri, Nikhil Collooru, Peter Na, Prashant Nema, Rohit Jain, Saksham Sachdev, Sergey Pershin, Shixuan Fan, Varun Gajjala",
+  "date": "2021-02-04T00:00:00.000Z",
+  "formattedDate": "February 4, 2021",
+  "tags": [],
+  "readingTime": 9.43,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "James Sun",
+      "url": "https://www.linkedin.com/in/yutiansun/"
+    }
+  ],
+  "frontMatter": {
+    "title": "RaptorX: Building a 10X Faster Presto",
+    "author": "James Sun",
+    "authorURL": "https://www.linkedin.com/in/yutiansun/",
+    "authorFBID": 100001087056694
+  },
+  "prevItem": {
+    "title": "Presto Foundation and PrestoDB: Our Commitment to the Presto Open Source Community",
+    "permalink": "/blog/2021/06/14/Commitment-to-Presto-Open-Source-Community"
+  },
+  "nextItem": {
+    "title": "2020 Recap - A Year with Presto",
+    "permalink": "/blog/2021/01/12/2020-recap-year-with-presto"
+  }
+}

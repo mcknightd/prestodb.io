@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2019/06/29/everything-you-always-wanted-to-do-in-a-table-scan",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-06-29-everything-you-always-wanted-to-do-in-a-table-scan.md",
+  "source": "@site/blog/2019-06-29-everything-you-always-wanted-to-do-in-a-table-scan.md",
+  "title": "Everything You Always Wanted To Do in Table Scan",
+  "description": "Orri Erling, Maria Basmanova, Ying Su, Timothy Meehan, Elon Azoulay",
+  "date": "2019-06-29T00:00:00.000Z",
+  "formattedDate": "June 29, 2019",
+  "tags": [],
+  "readingTime": 13.445,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Orri Erling",
+      "url": "https://www.linkedin.com/in/orrierling/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Everything You Always Wanted To Do in Table Scan",
+    "author": "Orri Erling",
+    "authorURL": "https://www.linkedin.com/in/orrierling/",
+    "authorFBID": 100026224749124
+  },
+  "prevItem": {
+    "title": "Complete Table Scan: A Quantitative Assessment",
+    "permalink": "/blog/2019/07/23/complete-table-scan"
+  },
+  "nextItem": {
+    "title": "Introducing the Presto blog",
+    "permalink": "/blog/2019/06/28/introducing-the-presto-blog"
+  }
+}

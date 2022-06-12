@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/11/20/prestocon-and-foundation-update",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-11-20-prestocon-and-foundation-update.md",
+  "source": "@site/blog/2020-11-20-prestocon-and-foundation-update.md",
+  "title": "PrestoCon and Growing Industry Consortium - Intel and Upsolver Join Presto Foundation",
+  "description": "Presto Foundation joined the Linux Foundation over a year ago, and has been focused on growing the Presto open source project and community. We encourage industry involvement with an open charter, clear guiding principles, and community-oriented goals. We recently hosted PrestoCon 2020, our first annual community conference, which was widely attended and well represented by Presto community members. We also warmly welcome Intel and Upsolver who recently joined the Presto Foundation.",
+  "date": "2020-11-20T00:00:00.000Z",
+  "formattedDate": "November 20, 2020",
+  "tags": [],
+  "readingTime": 3.315,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Girish Baliga",
+      "url": "https://github.com/gbbaliga"
+    }
+  ],
+  "frontMatter": {
+    "title": "PrestoCon and Growing Industry Consortium - Intel and Upsolver Join Presto Foundation",
+    "author": "Girish Baliga",
+    "authorURL": "https://github.com/gbbaliga"
+  },
+  "prevItem": {
+    "title": "Using OptimizedTypedSet to Improve Map and Array Functions",
+    "permalink": "/blog/2020/12/04/typedset"
+  },
+  "nextItem": {
+    "title": "Presto Enables Internal Log Data Analysis at Drift",
+    "permalink": "/blog/2020/10/29/presto-at-drift"
+  }
+}

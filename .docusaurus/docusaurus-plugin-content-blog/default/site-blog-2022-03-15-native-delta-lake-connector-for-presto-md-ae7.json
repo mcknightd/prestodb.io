@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2022/03/15/native-delta-lake-connector-for-presto",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-15-native-delta-lake-connector-for-presto.md",
+  "source": "@site/blog/2022-03-15-native-delta-lake-connector-for-presto.md",
+  "title": "Native Delta Lake Connector for Presto",
+  "description": "Co-authors\\",
+  "date": "2022-03-15T00:00:00.000Z",
+  "formattedDate": "March 15, 2022",
+  "tags": [],
+  "readingTime": 7.415,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Rohan Pednekar",
+      "url": "https://www.linkedin.com/in/pednero"
+    }
+  ],
+  "frontMatter": {
+    "author": "Rohan Pednekar",
+    "authorURL": "https://www.linkedin.com/in/pednero",
+    "title": "Native Delta Lake Connector for Presto"
+  },
+  "prevItem": {
+    "title": "Disaggregated Coordinator",
+    "permalink": "/blog/2022/04/15/disggregated-coordinator"
+  },
+  "nextItem": {
+    "title": "Avoid Data Silos in Presto in Meta: the journey from Raptor to RaptorX",
+    "permalink": "/blog/2022/01/28/avoid-data-silos-in-presto-in-meta"
+  }
+}

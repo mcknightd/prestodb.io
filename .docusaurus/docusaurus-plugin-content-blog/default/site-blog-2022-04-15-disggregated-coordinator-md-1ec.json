@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2022/04/15/disggregated-coordinator",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-04-15-disggregated-coordinator.md",
+  "source": "@site/blog/2022-04-15-disggregated-coordinator.md",
+  "title": "Disaggregated Coordinator",
+  "description": "Meta: Swapnil Tailor, Tim Meehan, Vaishnavi Batni, Abhisek Saikia, Neerad Somanchi",
+  "date": "2022-04-15T00:00:00.000Z",
+  "formattedDate": "April 15, 2022",
+  "tags": [],
+  "readingTime": 3.74,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Swapnil Tailor",
+      "url": "https://www.linkedin.com/in/swapnil-tailor-23077b6/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Disaggregated Coordinator",
+    "author": "Swapnil Tailor",
+    "authorURL": "https://www.linkedin.com/in/swapnil-tailor-23077b6/"
+  },
+  "nextItem": {
+    "title": "Native Delta Lake Connector for Presto",
+    "permalink": "/blog/2022/03/15/native-delta-lake-connector-for-presto"
+  }
+}

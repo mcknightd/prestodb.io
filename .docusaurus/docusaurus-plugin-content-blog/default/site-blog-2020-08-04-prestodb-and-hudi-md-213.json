@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/08/04/prestodb-and-hudi",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-08-04-prestodb-and-hudi.md",
+  "source": "@site/blog/2020-08-04-prestodb-and-hudi.md",
+  "title": "PrestoDB and Apache Hudi",
+  "description": "Co-author: Brandon Scheller",
+  "date": "2020-08-04T00:00:00.000Z",
+  "formattedDate": "August 4, 2020",
+  "tags": [],
+  "readingTime": 15.46,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Bhavani Sudha Saktheeswaran",
+      "url": "https://www.linkedin.com/in/bhasudha"
+    }
+  ],
+  "frontMatter": {
+    "author": "Bhavani Sudha Saktheeswaran",
+    "authorURL": "https://www.linkedin.com/in/bhasudha",
+    "title": "PrestoDB and Apache Hudi"
+  },
+  "prevItem": {
+    "title": "Building a high-performance platform on AWS to support real-time gaming services using Presto and Alluxio",
+    "permalink": "/blog/2020/08/06/presto-in-ea"
+  },
+  "nextItem": {
+    "title": "Running Presto in a Hybrid Cloud Architecture",
+    "permalink": "/blog/2020/07/17/alluxio-hybrid-cloud"
+  }
+}

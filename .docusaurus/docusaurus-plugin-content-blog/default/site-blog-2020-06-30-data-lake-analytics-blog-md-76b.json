@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/06/30/data-lake-analytics-blog",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-06-30-data-lake-analytics-blog.md",
+  "source": "@site/blog/2020-06-30-data-lake-analytics-blog.md",
+  "title": "Data Lake Analytics: Alibaba's Federated Cloud Strategy",
+  "description": "Presto is known to be a high-performance, distributed SQL query engine for Big Data. It offers large-scale data analytics with multiple connectors for accessing various data sources. This capability enables the Presto users to further extend some features to build a large-scale data federation service on cloud.",
+  "date": "2020-06-30T00:00:00.000Z",
+  "formattedDate": "June 30, 2020",
+  "tags": [],
+  "readingTime": 6.255,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "George Wang",
+      "url": "https://www.linkedin.com/in/george-wang-9a5a46190/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Data Lake Analytics: Alibaba's Federated Cloud Strategy",
+    "author": "George Wang",
+    "authorURL": "https://www.linkedin.com/in/george-wang-9a5a46190/"
+  },
+  "prevItem": {
+    "title": "Running Presto in a Hybrid Cloud Architecture",
+    "permalink": "/blog/2020/07/17/alluxio-hybrid-cloud"
+  },
+  "nextItem": {
+    "title": "Improving Presto Latencies with Alluxio Data Caching",
+    "permalink": "/blog/2020/06/16/alluxio-datacaching"
+  }
+}

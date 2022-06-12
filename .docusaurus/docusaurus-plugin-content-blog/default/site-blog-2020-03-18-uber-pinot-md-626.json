@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/03/18/uber-pinot",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-03-18-uber-pinot.md",
+  "source": "@site/blog/2020-03-18-uber-pinot.md",
+  "title": "Engineering SQL Support on Apache Pinot at Uber",
+  "description": "The article,  Engineering SQL Support on Apache Pinot at Uber, was originally published by Uber on the Uber Engineering Blog on January 15, 2020. Check out eng.uber.com for more articles about Uber's engineering work and follow Uber Engineering at @UberEng and Uber Open Source at @UberOpenSouce on Twitter for updates from our teams.",
+  "date": "2020-03-18T00:00:00.000Z",
+  "formattedDate": "March 18, 2020",
+  "tags": [],
+  "readingTime": 16.435,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Haibo Wang",
+      "url": "https://www.linkedin.com/in/haibowangcmu/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Engineering SQL Support on Apache Pinot at Uber",
+    "author": "Haibo Wang",
+    "authorURL": "https://www.linkedin.com/in/haibowangcmu/"
+  },
+  "prevItem": {
+    "title": "Spatial Joins 1: Local Spatial Joins",
+    "permalink": "/blog/2020/05/07/local-spatial-joins"
+  },
+  "nextItem": {
+    "title": "Querying Nested Data with Lambda Functions",
+    "permalink": "/blog/2020/03/02/presto-lambda"
+  }
+}

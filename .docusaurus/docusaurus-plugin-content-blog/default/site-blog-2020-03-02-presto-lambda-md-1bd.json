@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2020/03/02/presto-lambda",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-03-02-presto-lambda.md",
+  "source": "@site/blog/2020-03-02-presto-lambda.md",
+  "title": "Querying Nested Data with Lambda Functions",
+  "description": "Denormalized data with nested values (e.g. array/map) have become omnipresent in this Big Data era, as a lot of data naturally conforms to a nested representation [1, 2]. As a result it is important to provide an efficient and convenient way to query nested data. SQL traditionally does not include support for this.",
+  "date": "2020-03-02T00:00:00.000Z",
+  "formattedDate": "March 2, 2020",
+  "tags": [],
+  "readingTime": 7.49,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Wenlei Xie",
+      "url": "https://www.linkedin.com/in/wenleix/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Querying Nested Data with Lambda Functions",
+    "author": "Wenlei Xie",
+    "authorURL": "https://www.linkedin.com/in/wenleix/",
+    "authorFBID": 681470066
+  },
+  "prevItem": {
+    "title": "Engineering SQL Support on Apache Pinot at Uber",
+    "permalink": "/blog/2020/03/18/uber-pinot"
+  },
+  "nextItem": {
+    "title": "Announcing PrestoCon 2020: Advancing the Big Data Ecosystem with Presto ",
+    "permalink": "/blog/2020/02/13/prestocon-announcement"
+  }
+}

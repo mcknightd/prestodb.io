@@ -1,0 +1,426 @@
+{
+  "/__docusaurus/debug-dd7": {
+    "component": "component---theme-debug-config-23-a-2ff",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/config-430": {
+    "component": "component---theme-debug-config-23-a-2ff",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/content-74d": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/globalData-9d0": {
+    "component": "component---theme-debug-global-dataede-0fa",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/metadata-6bb": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/registry-cfc": {
+    "component": "component---theme-debug-registry-679-501",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/__docusaurus/debug/routes-d6a": {
+    "component": "component---theme-debug-routes-946-699",
+    "__routeContextModule": "__routeContextModule---docusaurus-debug-7-ca-be1"
+  },
+  "/blog-b53": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-53-c-18a"
+      },
+      {
+        "content": "content---blog-547-dca"
+      },
+      {
+        "content": "content---blog-339-a79"
+      },
+      {
+        "content": "content---blogd-82-873"
+      },
+      {
+        "content": "content---blog-0-cd-355"
+      },
+      {
+        "content": "content---blog-9-e-0-133"
+      },
+      {
+        "content": "content---blog-19-b-653"
+      },
+      {
+        "content": "content---blogcb-6-925"
+      },
+      {
+        "content": "content---blog-0-d-3-e08"
+      },
+      {
+        "content": "content---blog-12-d-372"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/06/28/introducing-the-presto-blog-082": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-06-28-introducing-the-presto-blogfab-bf7",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/06/29/everything-you-always-wanted-to-do-in-a-table-scan-e97": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-06-29-everything-you-always-wanted-to-do-in-a-table-scan-9-c-3-ace",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/07/23/complete-table-scan-697": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-07-23-complete-table-scanccd-9c4",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/08/05/presto-unlimited-mpp-database-at-scale-72d": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-08-05-presto-unlimited-mpp-database-at-scale-5-f-6-ab4",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/08/19/memory-tracking-0e9": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-08-19-memory-trackingcf-1-a98",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/09/23/linux-foundation-2f3": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-09-23-linux-foundation-19-a-799",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/09/26/tablescan-structs-553": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-09-26-tablescan-structsce-7-d49",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/12/16/growing-the-presto-foundation-743": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-12-16-growing-the-presto-foundation-5-c-3-0dc",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/12/20/repartition-491": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-12-20-repartition-0-bc-56b",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2019/12/23/improve-presto-planner-1cc": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-12-23-improve-presto-plannerb-21-a6a",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/02/13/prestocon-announcement-565": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-02-13-prestocon-announcement-33-b-84d",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/03/02/presto-lambda-b17": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-03-02-presto-lambda-1-bd-e21",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/03/18/uber-pinot-b4a": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-03-18-uber-pinot-626-94f",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/05/07/local-spatial-joins-31e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-05-07-local-spatial-joins-288-849",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/06/16/alluxio-datacaching-0d4": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-06-16-alluxio-datacaching-01-d-8bc",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/06/30/data-lake-analytics-blog-5c0": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-06-30-data-lake-analytics-blog-76-b-edf",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/07/17/alluxio-hybrid-cloud-867": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-07-17-alluxio-hybrid-cloudab-9-fd0",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/08/04/prestodb-and-hudi-172": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-08-04-prestodb-and-hudi-213-f40",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/08/06/presto-in-ea-c48": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-08-06-presto-in-eac-57-172",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/08/14/getting-started-and-aria-c56": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-08-14-getting-started-and-aria-6-c-4-57a",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/08/20/unnest-47f": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-08-20-unneste-77-d54",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/10/29/presto-at-drift-d19": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-10-29-presto-at-drift-757-003",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/11/20/prestocon-and-foundation-update-5c8": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-11-20-prestocon-and-foundation-update-069-3b5",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2020/12/04/typedset-714": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-12-04-typedset-8-d-6-aee",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/01/12/2020-recap-year-with-presto-6d6": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-01-12-2020-recap-year-with-presto-244-d3e",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/02/04/raptorx-4ed": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-02-04-raptorx-4-c-3-9b9",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/06/14/Commitment-to-Presto-Open-Source-Community-27e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-06-14-commitment-to-presto-open-source-community-20-b-2a6",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/06/29/native-parquet-writer-for-presto-6bc": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-06-29-native-parquet-writer-for-prestobc-7-a7d",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/10/26/Scaling-with-Presto-on-Spark-854": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-26-scaling-with-presto-on-sparkd-39-895",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2021/11/22/common-sub-expression-optimization-9d0": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-11-22-common-sub-expression-optimizationda-6-024",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2022/01/28/avoid-data-silos-in-presto-in-meta-c02": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2022-01-28-avoid-data-silos-in-presto-in-meta-913-8af",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2022/03/15/native-delta-lake-connector-for-presto-ec2": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2022-03-15-native-delta-lake-connector-for-prestoae-7-7e8",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/2022/04/15/disggregated-coordinator-b10": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2022-04-15-disggregated-coordinator-1-ec-3e4",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/archive-348": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/page/2-9fc": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-a-09-6fb"
+      },
+      {
+        "content": "content---blog-page-2-a-54-1c1"
+      },
+      {
+        "content": "content---blog-page-2079-14c"
+      },
+      {
+        "content": "content---blog-page-29-a-3-679"
+      },
+      {
+        "content": "content---blog-page-29-d-4-6f7"
+      },
+      {
+        "content": "content---blog-page-2-c-3-b-b39"
+      },
+      {
+        "content": "content---blog-page-28-dd-0ec"
+      },
+      {
+        "content": "content---blog-page-2112-0d1"
+      },
+      {
+        "content": "content---blog-page-2-c-91-9c1"
+      },
+      {
+        "content": "content---blog-page-2-da-1-d6b"
+      }
+    ],
+    "metadata": "metadata---blog-page-28-eb-625",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/page/3-bd1": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-3-de-2-0ff"
+      },
+      {
+        "content": "content---blog-page-3-d-7-f-561"
+      },
+      {
+        "content": "content---blog-page-3-a-61-a2f"
+      },
+      {
+        "content": "content---blog-page-33-a-0-342"
+      },
+      {
+        "content": "content---blog-page-32-ea-1e2"
+      },
+      {
+        "content": "content---blog-page-35-d-7-d86"
+      },
+      {
+        "content": "content---blog-page-3752-0a7"
+      },
+      {
+        "content": "content---blog-page-3-b-37-96a"
+      },
+      {
+        "content": "content---blog-page-375-e-b61"
+      },
+      {
+        "content": "content---blog-page-350-f-07d"
+      }
+    ],
+    "metadata": "metadata---blog-page-3929-7ba",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/blog/page/4-933": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-4-f-45-08d"
+      },
+      {
+        "content": "content---blog-page-4-c-8-d-16a"
+      },
+      {
+        "content": "content---blog-page-4-d-79-d54"
+      }
+    ],
+    "metadata": "metadata---blog-page-47-d-9-260",
+    "__routeContextModule": "__routeContextModule---blogc-9-c-c55"
+  },
+  "/community-d2d": {
+    "component": "component---site-src-pages-community-js-672-c47",
+    "config": "config---community-5-e-9-34e",
+    "__routeContextModule": "__routeContextModule---community-1-d-5-511"
+  },
+  "/markdown-page-39a": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028",
+    "__routeContextModule": "__routeContextModule---community-1-d-5-511"
+  },
+  "/test-f73": {
+    "component": "component---site-src-pages-test-js-65-d-1fe",
+    "config": "config---community-5-e-9-34e",
+    "__routeContextModule": "__routeContextModule---community-1-d-5-511"
+  },
+  "/docs-b3e": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398",
+    "__routeContextModule": "__routeContextModule---docs-7-db-87a"
+  },
+  "/docs/intro-aed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/tutorial-basics/congratulations-793": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+  },
+  "/docs/tutorial-basics/create-a-document-c2d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+  },
+  "/docs/tutorial-basics/create-a-page-f44": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+  },
+  "/docs/tutorial-basics/deploy-your-site-e46": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  },
+  "/docs/tutorial-basics/markdown-features-4b7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  },
+  "/docs/tutorial-extras/translate-your-site-2d7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  },
+  "/-fa2": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---community-5-e-9-34e",
+    "__routeContextModule": "__routeContextModule---community-1-d-5-511"
+  }
+}

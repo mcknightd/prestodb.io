@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2020/12/04/typedset",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-12-04-typedset.md",
+  "source": "@site/blog/2020-12-04-typedset.md",
+  "title": "Using OptimizedTypedSet to Improve Map and Array Functions",
+  "description": "Function evaluation is a big part of projection CPU cost. Recently we optimized a set of functions that use TypedSet, e.g.  mapconcat, arrayunion, arrayintersect, and arrayexcept. By introducing a new OptimizedTypeSet, the above functions saw improvements in several dimensions:",
+  "date": "2020-12-04T00:00:00.000Z",
+  "formattedDate": "December 4, 2020",
+  "tags": [],
+  "readingTime": 3.65,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Ying Su",
+      "url": "https://www.linkedin.com/in/ying-su-b00b81107/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Using OptimizedTypedSet to Improve Map and Array Functions",
+    "author": "Ying Su",
+    "authorURL": "https://www.linkedin.com/in/ying-su-b00b81107/",
+    "authorFBID": 656599427
+  },
+  "prevItem": {
+    "title": "2020 Recap - A Year with Presto",
+    "permalink": "/blog/2021/01/12/2020-recap-year-with-presto"
+  },
+  "nextItem": {
+    "title": "PrestoCon and Growing Industry Consortium - Intel and Upsolver Join Presto Foundation",
+    "permalink": "/blog/2020/11/20/prestocon-and-foundation-update"
+  }
+}

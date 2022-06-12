@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2019/12/23/improve-presto-planner",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-12-23-improve-presto-planner.md",
+  "source": "@site/blog/2019-12-23-improve-presto-planner.md",
+  "title": "Improving the Presto planner for better push down and data federation",
+  "description": "Alibaba: Yuan Mei",
+  "date": "2019-12-23T00:00:00.000Z",
+  "formattedDate": "December 23, 2019",
+  "tags": [],
+  "readingTime": 8.965,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Yi He",
+      "url": "https://www.linkedin.com/in/yi-he-69aa9723/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Improving the Presto planner for better push down and data federation",
+    "author": "Yi He",
+    "authorURL": "https://www.linkedin.com/in/yi-he-69aa9723/"
+  },
+  "prevItem": {
+    "title": "Announcing PrestoCon 2020: Advancing the Big Data Ecosystem with Presto ",
+    "permalink": "/blog/2020/02/13/prestocon-announcement"
+  },
+  "nextItem": {
+    "title": "5 design choices—and 1 weird trick — to get 2x efficiency gains in Presto repartitioning",
+    "permalink": "/blog/2019/12/20/repartition"
+  }
+}

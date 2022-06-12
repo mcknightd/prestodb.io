@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/08/14/getting-started-and-aria",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-08-14-getting-started-and-aria.md",
+  "source": "@site/blog/2020-08-14-getting-started-and-aria.md",
+  "title": "Getting Started with PrestoDB and Aria Scan Optimizations",
+  "description": "This article was originally published by Adam on June 15th, 2020 over at his blog at datacatessen.com.",
+  "date": "2020-08-14T00:00:00.000Z",
+  "formattedDate": "August 14, 2020",
+  "tags": [],
+  "readingTime": 6.62,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Adam Shook",
+      "url": "https://www.linkedin.com/in/adamjshook"
+    }
+  ],
+  "frontMatter": {
+    "title": "Getting Started with PrestoDB and Aria Scan Optimizations",
+    "author": "Adam Shook",
+    "authorURL": "https://www.linkedin.com/in/adamjshook"
+  },
+  "prevItem": {
+    "title": "Even Faster Unnest",
+    "permalink": "/blog/2020/08/20/unnest"
+  },
+  "nextItem": {
+    "title": "Building a high-performance platform on AWS to support real-time gaming services using Presto and Alluxio",
+    "permalink": "/blog/2020/08/06/presto-in-ea"
+  }
+}

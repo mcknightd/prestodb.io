@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/07/17/alluxio-hybrid-cloud",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-07-17-alluxio-hybrid-cloud.md",
+  "source": "@site/blog/2020-07-17-alluxio-hybrid-cloud.md",
+  "title": "Running Presto in a Hybrid Cloud Architecture",
+  "description": "Migrating SQL workloads from a fully on-premise environment to cloud infrastructure has numerous benefits, including alleviating resource contention and reducing costs by paying for computation resources on an on-demand basis. In the case of Presto running on data stored in HDFS, the separation of compute in the cloud and storage on-premises is apparent since Presto’s architecture enables the storage and compute components to operate independently. The critical issue in this hybrid environment of Presto in the cloud retrieving HDFS data from an on-premise environment is the network latency between the two clusters.",
+  "date": "2020-07-17T00:00:00.000Z",
+  "formattedDate": "July 17, 2020",
+  "tags": [],
+  "readingTime": 5.54,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Adit Madan",
+      "url": "https://www.linkedin.com/in/aditm/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Running Presto in a Hybrid Cloud Architecture",
+    "author": "Adit Madan",
+    "authorURL": "https://www.linkedin.com/in/aditm/"
+  },
+  "prevItem": {
+    "title": "PrestoDB and Apache Hudi",
+    "permalink": "/blog/2020/08/04/prestodb-and-hudi"
+  },
+  "nextItem": {
+    "title": "Data Lake Analytics: Alibaba's Federated Cloud Strategy",
+    "permalink": "/blog/2020/06/30/data-lake-analytics-blog"
+  }
+}

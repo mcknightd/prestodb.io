@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2019/09/23/linux-foundation",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-09-23-linux-foundation.md",
+  "source": "@site/blog/2019-09-23-linux-foundation.md",
+  "title": "Presto now hosted under the Linux Foundation",
+  "description": "We are excited to announce today, in partnership with Alibaba, Facebook, Twitter, and Uber, the launch of the Presto Foundation, a non-profit organization under the umbrella of the Linux Foundation.",
+  "date": "2019-09-23T00:00:00.000Z",
+  "formattedDate": "September 23, 2019",
+  "tags": [],
+  "readingTime": 0.685,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Ariel Weisberg",
+      "url": "https://www.linkedin.com/in/ariel-weisberg-a5b6899"
+    }
+  ],
+  "frontMatter": {
+    "title": "Presto now hosted under the Linux Foundation",
+    "author": "Ariel Weisberg",
+    "authorURL": "https://www.linkedin.com/in/ariel-weisberg-a5b6899",
+    "authorFBID": 100006183888902
+  },
+  "prevItem": {
+    "title": "Table Scan: Doing The Right Thing With Structured Types",
+    "permalink": "/blog/2019/09/26/tablescan-structs"
+  },
+  "nextItem": {
+    "title": "Memory Management in Presto",
+    "permalink": "/blog/2019/08/19/memory-tracking"
+  }
+}

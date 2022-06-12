@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/2019/06/28/introducing-the-presto-blog",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-06-28-introducing-the-presto-blog.md",
+  "source": "@site/blog/2019-06-28-introducing-the-presto-blog.md",
+  "title": "Introducing the Presto blog",
+  "description": "Presto is a key piece of data infrastructure at many companies. The community has many ongoing projects for taking it to new levels of performance and functionality plus unique experience and insight into challenges of scale.",
+  "date": "2019-06-28T00:00:00.000Z",
+  "formattedDate": "June 28, 2019",
+  "tags": [],
+  "readingTime": 1.425,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Orri Erling",
+      "url": "https://www.linkedin.com/in/orrierling/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introducing the Presto blog",
+    "author": "Orri Erling",
+    "authorURL": "https://www.linkedin.com/in/orrierling/",
+    "authorFBID": 100026224749124
+  },
+  "prevItem": {
+    "title": "Everything You Always Wanted To Do in Table Scan",
+    "permalink": "/blog/2019/06/29/everything-you-always-wanted-to-do-in-a-table-scan"
+  }
+}

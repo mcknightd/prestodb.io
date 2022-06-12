@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/2021/06/14/Commitment-to-Presto-Open-Source-Community",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-06-14-Commitment-to-Presto-Open-Source-Community.md",
+  "source": "@site/blog/2021-06-14-Commitment-to-Presto-Open-Source-Community.md",
+  "title": "Presto Foundation and PrestoDB: Our Commitment to the Presto Open Source Community",
+  "description": "Authors",
+  "date": "2021-06-14T00:00:00.000Z",
+  "formattedDate": "June 14, 2021",
+  "tags": [],
+  "readingTime": 2.795,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Girish Baliga, Tim Meehan, Dipti Borkar, Amit Chopra, Zhenxiao Luo, Arijit Bandyopadhyay, Steven Mih, Bin Fan"
+    }
+  ],
+  "frontMatter": {
+    "title": "Presto Foundation and PrestoDB: Our Commitment to the Presto Open Source Community",
+    "author": "Girish Baliga, Tim Meehan, Dipti Borkar, Amit Chopra, Zhenxiao Luo, Arijit Bandyopadhyay, Steven Mih, Bin Fan"
+  },
+  "prevItem": {
+    "title": "Native Parquet Writer for Presto",
+    "permalink": "/blog/2021/06/29/native-parquet-writer-for-presto"
+  },
+  "nextItem": {
+    "title": "RaptorX: Building a 10X Faster Presto",
+    "permalink": "/blog/2021/02/04/raptorx"
+  }
+}

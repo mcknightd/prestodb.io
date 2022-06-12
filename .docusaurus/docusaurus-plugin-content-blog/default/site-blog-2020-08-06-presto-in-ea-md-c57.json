@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/08/06/presto-in-ea",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-08-06-presto-in-ea.md",
+  "source": "@site/blog/2020-08-06-presto-in-ea.md",
+  "title": "Building a high-performance platform on AWS to support real-time gaming services using Presto and Alluxio",
+  "description": "Authors: Teng Wang, Du Li, Yu Jin and Sundeep Narravula",
+  "date": "2020-08-06T00:00:00.000Z",
+  "formattedDate": "August 6, 2020",
+  "tags": [],
+  "readingTime": 5.685,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Teng Wang",
+      "url": "https://www.linkedin.com/in/teng-wang-9b8732194/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Building a high-performance platform on AWS to support real-time gaming services using Presto and Alluxio",
+    "author": "Teng Wang",
+    "authorURL": "https://www.linkedin.com/in/teng-wang-9b8732194/"
+  },
+  "prevItem": {
+    "title": "Getting Started with PrestoDB and Aria Scan Optimizations",
+    "permalink": "/blog/2020/08/14/getting-started-and-aria"
+  },
+  "nextItem": {
+    "title": "PrestoDB and Apache Hudi",
+    "permalink": "/blog/2020/08/04/prestodb-and-hudi"
+  }
+}

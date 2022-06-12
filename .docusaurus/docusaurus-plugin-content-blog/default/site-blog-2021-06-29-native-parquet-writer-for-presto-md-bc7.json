@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2021/06/29/native-parquet-writer-for-presto",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-06-29-native-parquet-writer-for-presto.md",
+  "source": "@site/blog/2021-06-29-native-parquet-writer-for-presto.md",
+  "title": "Native Parquet Writer for Presto",
+  "description": "Pinterest: Lu Niu",
+  "date": "2021-06-29T00:00:00.000Z",
+  "formattedDate": "June 29, 2021",
+  "tags": [],
+  "readingTime": 2.79,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Lu Niu",
+      "url": "https://www.linkedin.com/in/luniu/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Native Parquet Writer for Presto",
+    "author": "Lu Niu",
+    "authorURL": "https://www.linkedin.com/in/luniu/"
+  },
+  "prevItem": {
+    "title": "Scaling with Presto on Spark",
+    "permalink": "/blog/2021/10/26/Scaling-with-Presto-on-Spark"
+  },
+  "nextItem": {
+    "title": "Presto Foundation and PrestoDB: Our Commitment to the Presto Open Source Community",
+    "permalink": "/blog/2021/06/14/Commitment-to-Presto-Open-Source-Community"
+  }
+}

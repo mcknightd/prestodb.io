@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2019/12/20/repartition",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-12-20-repartition.md",
+  "source": "@site/blog/2019-12-20-repartition.md",
+  "title": "5 design choices—and 1 weird trick — to get 2x efficiency gains in Presto repartitioning",
+  "description": "Ying Su, Masha Basmanova, Orri Erling, Tim Meehan, Sahar Massachi, Bhavani Hari",
+  "date": "2019-12-20T00:00:00.000Z",
+  "formattedDate": "December 20, 2019",
+  "tags": [],
+  "readingTime": 13.555,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Ying Su",
+      "url": "https://www.linkedin.com/in/ying-su-b00b81107/"
+    }
+  ],
+  "frontMatter": {
+    "title": "5 design choices—and 1 weird trick — to get 2x efficiency gains in Presto repartitioning",
+    "author": "Ying Su",
+    "authorURL": "https://www.linkedin.com/in/ying-su-b00b81107/",
+    "authorFBID": 656599427
+  },
+  "prevItem": {
+    "title": "Improving the Presto planner for better push down and data federation",
+    "permalink": "/blog/2019/12/23/improve-presto-planner"
+  },
+  "nextItem": {
+    "title": "Join Us! Growing the Presto Foundation in 2020 and Beyond",
+    "permalink": "/blog/2019/12/16/growing-the-presto-foundation"
+  }
+}

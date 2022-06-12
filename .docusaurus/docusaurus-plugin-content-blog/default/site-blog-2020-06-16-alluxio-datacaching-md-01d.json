@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2020/06/16/alluxio-datacaching",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-06-16-alluxio-datacaching.md",
+  "source": "@site/blog/2020-06-16-alluxio-datacaching.md",
+  "title": "Improving Presto Latencies with Alluxio Data Caching",
+  "description": "Facebook: Rohit Jain, James Sun, Ke Wang, Shixuan Fan, Biswapesh Chattopadhyay, Baldeep Hira",
+  "date": "2020-06-16T00:00:00.000Z",
+  "formattedDate": "June 16, 2020",
+  "tags": [],
+  "readingTime": 9.365,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Rohit Jain",
+      "url": "https://www.linkedin.com/in/jain-rohit/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Improving Presto Latencies with Alluxio Data Caching",
+    "author": "Rohit Jain",
+    "authorURL": "https://www.linkedin.com/in/jain-rohit/",
+    "authorFBID": 514987722
+  },
+  "prevItem": {
+    "title": "Data Lake Analytics: Alibaba's Federated Cloud Strategy",
+    "permalink": "/blog/2020/06/30/data-lake-analytics-blog"
+  },
+  "nextItem": {
+    "title": "Spatial Joins 1: Local Spatial Joins",
+    "permalink": "/blog/2020/05/07/local-spatial-joins"
+  }
+}

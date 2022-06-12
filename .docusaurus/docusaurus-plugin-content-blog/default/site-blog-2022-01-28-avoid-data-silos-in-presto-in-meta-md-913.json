@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2022/01/28/avoid-data-silos-in-presto-in-meta",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-01-28-avoid-data-silos-in-presto-in-meta.md",
+  "source": "@site/blog/2022-01-28-avoid-data-silos-in-presto-in-meta.md",
+  "title": "Avoid Data Silos in Presto in Meta: the journey from Raptor to RaptorX",
+  "description": "Alluxio: Rongrong Zhong",
+  "date": "2022-01-28T00:00:00.000Z",
+  "formattedDate": "January 28, 2022",
+  "tags": [],
+  "readingTime": 10.6,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Rongrong Zhong",
+      "url": "https://www.linkedin.com/in/rongrong-zhong-31aa8a8/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Avoid Data Silos in Presto in Meta: the journey from Raptor to RaptorX",
+    "author": "Rongrong Zhong",
+    "authorURL": "https://www.linkedin.com/in/rongrong-zhong-31aa8a8/"
+  },
+  "prevItem": {
+    "title": "Native Delta Lake Connector for Presto",
+    "permalink": "/blog/2022/03/15/native-delta-lake-connector-for-presto"
+  },
+  "nextItem": {
+    "title": "Common Sub-Expression optimization",
+    "permalink": "/blog/2021/11/22/common-sub-expression-optimization"
+  }
+}

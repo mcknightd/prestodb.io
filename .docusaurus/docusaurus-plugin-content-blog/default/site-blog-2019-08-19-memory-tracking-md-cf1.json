@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2019/08/19/memory-tracking",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-08-19-memory-tracking.md",
+  "source": "@site/blog/2019-08-19-memory-tracking.md",
+  "title": "Memory Management in Presto",
+  "description": "In a multi-tenant system like Presto careful memory management is required to keep the system stable and prevent individual queries from taking over all the resources. However, tracking the memory usage of data structures in an application (Presto) running on the Java Virtual Machine (JVM) requires a significant amount of work. In addition, Presto is a distributed system, which makes the problem more complicated. This post provides an overview of how memory management works in Presto, and provides info about the various memory management related JMX counters/endpoints that can be used for monitoring production clusters.",
+  "date": "2019-08-19T00:00:00.000Z",
+  "formattedDate": "August 19, 2019",
+  "tags": [],
+  "readingTime": 8.925,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Nezih Yigitbasi",
+      "url": "https://www.linkedin.com/in/nezihyigitbasi/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Memory Management in Presto",
+    "author": "Nezih Yigitbasi",
+    "authorURL": "https://www.linkedin.com/in/nezihyigitbasi/",
+    "authorFBID": 100000082666878
+  },
+  "prevItem": {
+    "title": "Presto now hosted under the Linux Foundation",
+    "permalink": "/blog/2019/09/23/linux-foundation"
+  },
+  "nextItem": {
+    "title": "Presto Unlimited: MPP SQL Engine at Scale",
+    "permalink": "/blog/2019/08/05/presto-unlimited-mpp-database-at-scale"
+  }
+}

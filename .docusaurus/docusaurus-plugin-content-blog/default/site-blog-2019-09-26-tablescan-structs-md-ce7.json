@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2019/09/26/tablescan-structs",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-09-26-tablescan-structs.md",
+  "source": "@site/blog/2019-09-26-tablescan-structs.md",
+  "title": "Table Scan: Doing The Right Thing With Structured Types",
+  "description": "In the previous article we saw what gains are possible when filtering early and in the right order. In this article we look at how we do this with nested and structured types.",
+  "date": "2019-09-26T00:00:00.000Z",
+  "formattedDate": "September 26, 2019",
+  "tags": [],
+  "readingTime": 10.295,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Orri Erling",
+      "url": "https://www.linkedin.com/in/orrierling/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Table Scan: Doing The Right Thing With Structured Types",
+    "author": "Orri Erling",
+    "authorURL": "https://www.linkedin.com/in/orrierling/",
+    "authorFBID": 100026224749124
+  },
+  "prevItem": {
+    "title": "Join Us! Growing the Presto Foundation in 2020 and Beyond",
+    "permalink": "/blog/2019/12/16/growing-the-presto-foundation"
+  },
+  "nextItem": {
+    "title": "Presto now hosted under the Linux Foundation",
+    "permalink": "/blog/2019/09/23/linux-foundation"
+  }
+}

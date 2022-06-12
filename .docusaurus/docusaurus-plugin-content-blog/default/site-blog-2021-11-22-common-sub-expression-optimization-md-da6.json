@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2021/11/22/common-sub-expression-optimization",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-11-22-common-sub-expression-optimization.md",
+  "source": "@site/blog/2021-11-22-common-sub-expression-optimization.md",
+  "title": "Common Sub-Expression optimization",
+  "description": "The problem",
+  "date": "2021-11-22T00:00:00.000Z",
+  "formattedDate": "November 22, 2021",
+  "tags": [],
+  "readingTime": 3.8,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Rongrong Zhong",
+      "url": "https://www.linkedin.com/in/rongrong-zhong-31aa8a8/"
+    }
+  ],
+  "frontMatter": {
+    "author": "Rongrong Zhong",
+    "authorURL": "https://www.linkedin.com/in/rongrong-zhong-31aa8a8/",
+    "title": "Common Sub-Expression optimization"
+  },
+  "prevItem": {
+    "title": "Avoid Data Silos in Presto in Meta: the journey from Raptor to RaptorX",
+    "permalink": "/blog/2022/01/28/avoid-data-silos-in-presto-in-meta"
+  },
+  "nextItem": {
+    "title": "Scaling with Presto on Spark",
+    "permalink": "/blog/2021/10/26/Scaling-with-Presto-on-Spark"
+  }
+}

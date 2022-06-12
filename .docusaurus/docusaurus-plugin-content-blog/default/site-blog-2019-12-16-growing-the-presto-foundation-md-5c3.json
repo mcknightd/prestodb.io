@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2019/12/16/growing-the-presto-foundation",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-12-16-growing-the-presto-foundation.md",
+  "source": "@site/blog/2019-12-16-growing-the-presto-foundation.md",
+  "title": "Join Us! Growing the Presto Foundation in 2020 and Beyond",
+  "description": "The Presto Foundation (PF) was established in September 2019 as an openly governed and vendor-neutral body dedicated to scaling and diversifying the Presto community. Hosted by the Linux Foundation, PF and its Governing Board are in a unique position to make Presto the fastest and the most reliable SQL engine for massively distributed data processing.",
+  "date": "2019-12-16T00:00:00.000Z",
+  "formattedDate": "December 16, 2019",
+  "tags": [],
+  "readingTime": 5.3,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Brian Hsieh",
+      "url": "https://www.linkedin.com/in/briankhsieh/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Join Us! Growing the Presto Foundation in 2020 and Beyond",
+    "author": "Brian Hsieh",
+    "authorURL": "https://www.linkedin.com/in/briankhsieh/"
+  },
+  "prevItem": {
+    "title": "5 design choices—and 1 weird trick — to get 2x efficiency gains in Presto repartitioning",
+    "permalink": "/blog/2019/12/20/repartition"
+  },
+  "nextItem": {
+    "title": "Table Scan: Doing The Right Thing With Structured Types",
+    "permalink": "/blog/2019/09/26/tablescan-structs"
+  }
+}

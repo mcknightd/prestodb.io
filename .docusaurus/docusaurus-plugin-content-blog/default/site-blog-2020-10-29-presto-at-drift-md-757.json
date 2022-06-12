@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/10/29/presto-at-drift",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-10-29-presto-at-drift.md",
+  "source": "@site/blog/2020-10-29-presto-at-drift.md",
+  "title": "Presto Enables Internal Log Data Analysis at Drift",
+  "description": "I’m a Senior Software Engineer in the data group at Drift, a conversational marketing platform that is used for qualifying leads faster, automatically booking meetings and connecting customers to the right business solutions more efficiently. I’ve used Presto quite a bit throughout my career, and I want to first give readers a quick overview of how Presto has enabled my team at Drift to quickly and cost-effectively analyze distributed logs at scale. Then I will share how we used and benefited from Presto at Vistaprint, where I worked previously.",
+  "date": "2020-10-29T00:00:00.000Z",
+  "formattedDate": "October 29, 2020",
+  "tags": [],
+  "readingTime": 3.47,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Arun Venkateswaran",
+      "url": "https://github.com/venkaa6"
+    }
+  ],
+  "frontMatter": {
+    "title": "Presto Enables Internal Log Data Analysis at Drift",
+    "author": "Arun Venkateswaran",
+    "authorURL": "https://github.com/venkaa6"
+  },
+  "prevItem": {
+    "title": "PrestoCon and Growing Industry Consortium - Intel and Upsolver Join Presto Foundation",
+    "permalink": "/blog/2020/11/20/prestocon-and-foundation-update"
+  },
+  "nextItem": {
+    "title": "Even Faster Unnest",
+    "permalink": "/blog/2020/08/20/unnest"
+  }
+}

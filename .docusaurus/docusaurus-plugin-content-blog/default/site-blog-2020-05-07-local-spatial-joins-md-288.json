@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2020/05/07/local-spatial-joins",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-05-07-local-spatial-joins.md",
+  "source": "@site/blog/2020-05-07-local-spatial-joins.md",
+  "title": "Spatial Joins 1: Local Spatial Joins",
+  "description": "A common type of spatial query involves relating one table of geometric",
+  "date": "2020-05-07T00:00:00.000Z",
+  "formattedDate": "May 7, 2020",
+  "tags": [],
+  "readingTime": 8.775,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "James Gill",
+      "url": "https://www.linkedin.com/in/jagill/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Spatial Joins 1: Local Spatial Joins",
+    "author": "James Gill",
+    "authorURL": "https://www.linkedin.com/in/jagill/"
+  },
+  "prevItem": {
+    "title": "Improving Presto Latencies with Alluxio Data Caching",
+    "permalink": "/blog/2020/06/16/alluxio-datacaching"
+  },
+  "nextItem": {
+    "title": "Engineering SQL Support on Apache Pinot at Uber",
+    "permalink": "/blog/2020/03/18/uber-pinot"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2020/02/13/prestocon-announcement",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-02-13-prestocon-announcement.md",
+  "source": "@site/blog/2020-02-13-prestocon-announcement.md",
+  "title": "Announcing PrestoCon 2020: Advancing the Big Data Ecosystem with Presto ",
+  "description": "On March 24, 2020 in San Mateo, the Presto Foundation, in partnership with The Linux Foundation, will be hosting the organization’s first-ever PrestoCon. The event, one of the first Presto-focused full-day conferences ever held, will feature speakers from Uber, Facebook, and Twitter, as well as tech talks from other major Presto contributors and enthusiasts.",
+  "date": "2020-02-13T00:00:00.000Z",
+  "formattedDate": "February 13, 2020",
+  "tags": [],
+  "readingTime": 1.075,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Nezih Yigitbasi",
+      "url": "https://www.linkedin.com/in/nezihyigitbasi/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing PrestoCon 2020: Advancing the Big Data Ecosystem with Presto ",
+    "author": "Nezih Yigitbasi",
+    "authorURL": "https://www.linkedin.com/in/nezihyigitbasi/",
+    "authorFBID": 100000082666878
+  },
+  "prevItem": {
+    "title": "Querying Nested Data with Lambda Functions",
+    "permalink": "/blog/2020/03/02/presto-lambda"
+  },
+  "nextItem": {
+    "title": "Improving the Presto planner for better push down and data federation",
+    "permalink": "/blog/2019/12/23/improve-presto-planner"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Disaggregated Coordinator",
+      "permalink": "/blog/2022/04/15/disggregated-coordinator"
+    },
+    {
+      "title": "Native Delta Lake Connector for Presto",
+      "permalink": "/blog/2022/03/15/native-delta-lake-connector-for-presto"
+    },
+    {
+      "title": "Avoid Data Silos in Presto in Meta: the journey from Raptor to RaptorX",
+      "permalink": "/blog/2022/01/28/avoid-data-silos-in-presto-in-meta"
+    },
+    {
+      "title": "Common Sub-Expression optimization",
+      "permalink": "/blog/2021/11/22/common-sub-expression-optimization"
+    },
+    {
+      "title": "Scaling with Presto on Spark",
+      "permalink": "/blog/2021/10/26/Scaling-with-Presto-on-Spark"
+    }
+  ]
+}

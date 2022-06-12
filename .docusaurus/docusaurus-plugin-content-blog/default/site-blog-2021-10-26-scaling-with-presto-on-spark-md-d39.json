@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2021/10/26/Scaling-with-Presto-on-Spark",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-10-26-Scaling-with-Presto-on-Spark.md",
+  "source": "@site/blog/2021-10-26-Scaling-with-Presto-on-Spark.md",
+  "title": "Scaling with Presto on Spark",
+  "description": "Co-authors\\",
+  "date": "2021-10-26T00:00:00.000Z",
+  "formattedDate": "October 26, 2021",
+  "tags": [],
+  "readingTime": 8.165,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Rohan Pednekar",
+      "url": "https://www.linkedin.com/in/pednero"
+    }
+  ],
+  "frontMatter": {
+    "author": "Rohan Pednekar",
+    "authorURL": "https://www.linkedin.com/in/pednero",
+    "title": "Scaling with Presto on Spark"
+  },
+  "prevItem": {
+    "title": "Common Sub-Expression optimization",
+    "permalink": "/blog/2021/11/22/common-sub-expression-optimization"
+  },
+  "nextItem": {
+    "title": "Native Parquet Writer for Presto",
+    "permalink": "/blog/2021/06/29/native-parquet-writer-for-presto"
+  }
+}
